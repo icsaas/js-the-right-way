@@ -2,10 +2,6 @@
 
 Feel free to contribute!
 
-## Where?
-
-<http://www.jstherightway.org>
-
 ## Why?
 
 Today we have a bunch of websites running JavaScript. I think we need a place to put all the best practices and references together so we can share this (good) information and help keep the web more organized.
@@ -20,6 +16,3 @@ Today we have a bunch of websites running JavaScript. I think we need a place to
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-## Sponsor
-
-[![GoBacklog](https://i.imgur.com/7lJBAXA.png)](https://gobacklog.com)
